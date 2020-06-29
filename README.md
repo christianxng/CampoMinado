@@ -31,4 +31,4 @@ Para o tabuleiro os seguintes caracteres foram utilizados na representação:
 
 # Desenvolvimento
 
-Projeto foi desenvolvido na linguagem C.
+Projeto foi desenvolvido em linguagem C.
