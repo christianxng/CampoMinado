@@ -8,10 +8,11 @@ mais popular a que vinha nativamente em edições do Windows.
 
 ## Tabuleiro
 Para o tabuleiro os seguintes caracteres foram utilizados na representação:
-● # : quadrado fechado
-● B: bandeira
-● * : bomba
-● - : quadrado aberto sem bomba adjacente
+
+<p> ● # : quadrado fechado </p>
+<p> ● B: bandeira </p>
+<p> ● * : bomba </p>
+<p> ● - : quadrado aberto sem bomba adjacente </p>
 
 
 # Desenvolvimento
